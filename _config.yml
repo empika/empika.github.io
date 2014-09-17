@@ -1,0 +1,13 @@
+# Site settings
+title: eddy.parr.is
+email: eddy@parr.is
+description: "Stuff by Edd Parris"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://eddy.parr.is" # the base hostname & protocol for your site
+twitter_username: empika
+github_username:  empika
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
