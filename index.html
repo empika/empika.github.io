@@ -3,24 +3,26 @@ layout: default
 ---
 
 <div class="home">
-  <h2>Here is stuff I made:</h2>
+  <h2>Stuff I made:</h2>
 
   <div class="posts">
       <div class="post {% if site.animated %}animated fade-in-down{% endif %}">
         <a href="{{ site.baseurl }}/bubble-tennis-infatuation/" class="post-link">
-          <h3 class="h2 post-title">Bubble Tennis Infatuation</h3>
+          <h3 class="post-title">Bubble Tennis Infatuation</h3>
           <p class="post-summary">A future sports game... it's rad</p>
         </a>
       </div>
   </div>
 
-  <h2>Here is stuff I wrote:</h2>
+  <hr/>
+
+  <h2>Stuff I wrote:</h2>
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post {% if site.animated %}animated fade-in-down{% endif %}">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h2 post-title">{{ post.title }}</h3>
+          <h3 class="post-title">{{ post.title }}</h3>
           <p class="post-summary">{{ post.summary }}</p>
         </a>
       </div>
