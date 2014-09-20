@@ -7,6 +7,7 @@ url: "http://eddy.parr.is" # the base hostname & protocol for your site
 twitter_username: empika
 github_username:  empika
 google_analytics: "UA-33574019-1"
+animated: true
 
 # Build settings
 markdown: kramdown

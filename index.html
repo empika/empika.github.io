@@ -6,15 +6,23 @@ layout: default
   <h2>Stuff I made:</h2>
 
   <div class="posts">
-      <div class="post {% if site.animated %}animated fade-in-down{% endif %}">
-        <a href="{{ site.baseurl }}/bubble-tennis-infatuation/" class="post-link">
-          <h3 class="post-title">Bubble Tennis Infatuation</h3>
-          <p class="post-summary">A future sports game... it's rad</p>
-        </a>
-      </div>
+    {% for page in site.pages %}
+      {% if page.categories contains 'games' %}
+        <div class="post post-home-list {% if site.animated %}animated fade-in-down{% endif %}">
+          <a href="{{ site.baseurl }}/bubble-tennis-infatuation/" class="post-link">
+            <img src="{{ page.image | prepend: site.baseurl }}"/>
+            <div>
+              <h3 class="post-title">{{ page.title }}</h3>
+              <p class="post-summary">{{ page.description }}</p>
+            </div>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+      
   </div>
 
-  <hr/>
+  <hr class="home-hr"/>
 
   <h2>Stuff I wrote:</h2>
   <div class="posts">
