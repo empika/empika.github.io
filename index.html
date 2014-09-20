@@ -10,7 +10,7 @@ layout: default
       {% if page.categories contains 'games' %}
         <div class="post post-home-list {% if site.animated %}animated fade-in-down{% endif %}">
           <a href="{{ site.baseurl }}/bubble-tennis-infatuation/" class="post-link">
-            <img src="{{ page.image | prepend: site.baseurl }}"/>
+            <img src="{{ page.image | prepend: site.url }}"/>
             <div>
               <h3 class="post-title">{{ page.title }}</h3>
               <p class="post-summary">{{ page.description }}</p>
