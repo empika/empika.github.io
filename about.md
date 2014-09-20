@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Edd Parris makes games, works at mediatonic, currently has a sore tooth.
+Edd Parris makes games for [Mediatonic](http://www.mediatonicgames.com) and makes games for fun.
+
+You can probably get him on Twitter at [@empika](http://www.twitter.com/empika) or email <{{ site.email }}>
 
 <!-- This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).

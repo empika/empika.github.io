@@ -3,7 +3,7 @@ layout: page
 title: Super Pinata Pro
 description: Super Pinata Pro is a future sports simulator
 permalink: /super-pinata-pro/
-categories: [games]
+categories: [home, games]
 image: /assets/icons/pinata_anim.gif
 ---
 
