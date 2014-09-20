@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bubble Tennis Infatuation
+title: 2014 - Bubble Tennis Infatuation
 description: Wrestlers. Frisbee. Powerups.
 permalink: /bubble-tennis-infatuation/
 categories: [home, games]

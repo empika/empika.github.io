@@ -1,10 +1,10 @@
+div .post-home-list {
+	overflow: hidden;
+}
+
 .post-home-list img {
 	float: left;
 	width: 128px;
 	margin-right: 1em;
 	display: block;
-}
-
-.home-hr {
-	clear: both;
 }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Super Piñata Pro
+title: 2013 - Super Piñata Pro
 description: Piñatas. Cucumbers? Candy.
 permalink: /super-pinata-pro/
 categories: [home, games]

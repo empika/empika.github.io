@@ -7,7 +7,7 @@ layout: default
 
   <div class="posts">
     {% for page in site.pages %}
-      {% if page.categories contains 'home' and page.categories contains 'games' %}
+      {% if page.categories contains 'home' and page.categories contains 'games' and page.categories contains 'first' %}
         <div class="post post-home-list {% if site.animated %}animated fade-in-down{% endif %}">
           <a href="{{ page.permalink }}" class="post-link">
             <img src="{{ page.image }}"/>
@@ -19,10 +19,30 @@ layout: default
         </div>
       {% endif %}
     {% endfor %}
+
+    {% for page in site.pages %}
+      {% assign contains_first = false %}
+      {% if page.categories contains 'first' %}
+        {% assign contains_first = true %}
+      {% endif %}
+
+      {% if page.categories contains 'home' and page.categories contains 'games' and contains_first == false  %}
+        <div class="post post-home-list {% if site.animated %}animated fade-in-down{% endif %}">
+          <a href="{{ page.permalink }}" class="post-link">
+            <img src="{{ page.image }}"/>
+            <div>
+              <h3 class="post-title">{{ page.title }}</h3>
+              <p class="post-summary">{{ page.description }}</p>
+            </div>
+          </a>
+        </div>
+
+      {% endif %}
+    {% endfor %}
       
   </div>
 
-  <hr class="home-hr"/>
+  <hr/>
 
   <h2>Stuff I wrote:</h2>
   <div class="posts">
