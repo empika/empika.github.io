@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bubble Tennis Infatuation
-description: Bubble Tennis Infatuation is a future sports game, it's pretty cool yo
+description: Wrestlers. Frisbee. Powerups.
 permalink: /bubble-tennis-infatuation/
 categories: [home, games]
 image: /assets/icons/gladiator_flex_01.gif

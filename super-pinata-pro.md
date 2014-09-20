@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Super Pinata Pro
-description: Super Pinata Pro is a future sports simulator
+title: Super Piñata Pro
+description: Piñatas. Cucumbers? Candy.
 permalink: /super-pinata-pro/
 categories: [home, games]
 image: /assets/icons/pinata_anim.gif
