@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jack Move - Lighting
-date:       2014-09-21 14:11:29
+date:       2014-09-20 14:11:29
 summary:    Experimenting with some lighting and stuff...
 categories: [posts, jack-move]
 ---
