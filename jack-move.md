@@ -7,7 +7,7 @@ categories: [home, games, first]
 image: /assets/icons/jack_move.gif
 ---
 
-A cyberpunk JRPG...
+A cyberpunk JRPG. Currently WIP.
 
 {% for post in site.categories.jack-move %}
 <div class="post {% if site.animated %}animated fade-in-down{% endif %}">
