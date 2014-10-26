@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jack Move - Battle Enemies
-date:       2014-09-27 14:11:29
+date:       2014-10-27 14:11:29
 summary:    Enemies can now attack in battle
 categories: [posts, jack-move]
 ---

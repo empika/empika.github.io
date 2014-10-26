@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jack Move - Battle Actions
-date:       2014-09-26 14:11:29
+date:       2014-10-26 14:11:29
 summary:    Been working on performing actions in battle
 categories: [posts, jack-move]
 ---
