@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jack Move - Update!
-date:       2014-10-27 14:11:29
+date:       2015-01-11 14:11:29
 summary:    It's been a while, here's an update
 categories: [posts, jack-move]
 ---
