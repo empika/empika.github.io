@@ -6,4 +6,4 @@ summary:    A bit of cutscene
 categories: [posts, jack-move]
 ---
 
-<iframe class="imgur-embed" width="100%" height="308" frameborder="0" src="http://i.imgur.com/sXIesLG.gifv#embed"></iframe>
+<iframe class="imgur-embed" width="100%" height="308" frameborder="0" src="http://i.imgur.com/7Jhwwo7.gifv#embed"></iframe>
