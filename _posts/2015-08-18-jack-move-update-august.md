@@ -2,7 +2,7 @@
 layout:     post
 title:      Jack Move - August update!
 date:       2015-08-18 14:11:29
-summary:    Post FX
+summary:    New alley environment
 categories: [posts, jack-move]
 ---
 
