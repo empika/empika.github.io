@@ -8,4 +8,4 @@ categories: [posts, jack-move]
 
 Been working on a new environment, and using Unity's post FX for some bloom
 
-![1]({{ site.url }}/assets/images/jackmove/alley_bloom.png)
+![1](https://eddy.parr.is.s3.amazonaws.com/images/jackmove/alley_bloom.png)
