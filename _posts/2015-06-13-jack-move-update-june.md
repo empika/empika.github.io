@@ -2,7 +2,7 @@
 layout:     post
 title:      Jack Move - June update!
 date:       2015-06-13 14:11:29
-summary:    A bit of cutscene
+summary:    Just some animations
 categories: [posts, jack-move]
 ---
 
