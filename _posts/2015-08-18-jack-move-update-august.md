@@ -8,4 +8,4 @@ categories: [posts, jack-move]
 
 Been working on a new environment, and using Unity's post FX for some bloom, you can see the effect in the top picture.
 
-![1](http://eddy.parr.is.s3.amazonaws.com/images/jackmove/alley_bloom.png)
+![1](https://dl.dropboxusercontent.com/u/5946684/jackmove/Screenshots/alley_bloom.png)
