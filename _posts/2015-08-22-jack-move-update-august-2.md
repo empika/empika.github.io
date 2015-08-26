@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Jack Move - August update #2!
+title:      Jack Move - August update &#35;2!
 date:       2015-08-22 14:11:29
 summary:    Loading icon
 categories: [posts, jack-move]
